@@ -1,1 +1,1 @@
-**This file is mandatory in all ALX School project**# gedion
+**This file is mandatory in all ALX School project**
